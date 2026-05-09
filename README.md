@@ -76,4 +76,4 @@ The generated alerts were forwarded to Splunk (SIEM), were it  monitored activit
   ---
 
   ## Splunk Alert
-  ![Splunk Alert](Screenshot/2026-05-08 132035.png)
+  ![Splunk Alert](Screenshots/Screenshot2026-05-08 132035.png)
