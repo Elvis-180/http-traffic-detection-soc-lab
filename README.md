@@ -72,3 +72,8 @@ The generated alerts were forwarded to Splunk (SIEM), were it  monitored activit
 - Proper log forwarding and indexing are critical for effective monitoring
 - Network segmentation impacts how traffic is observed and interpreted
 - Detection engineering requires both technical configuration and analytical validation
+
+  ---
+
+  ## Splunk Alert
+  ![Splunk Alert](Screenshot/Screenshot 2026-05-08 132035.png)
