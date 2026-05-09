@@ -73,7 +73,3 @@ The generated alerts were forwarded to Splunk (SIEM), were it  monitored activit
 - Network segmentation impacts how traffic is observed and interpreted
 - Detection engineering requires both technical configuration and analytical validation
 
-  ---
-
-  ## Splunk Alert
-  ![Splunk Alert] (Screenshots/Screenshot2026-05-08 132035.png)
