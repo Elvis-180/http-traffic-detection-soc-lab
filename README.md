@@ -1,4 +1,4 @@
-# HTTP Traffic Monitoring and Intrusion Detection Lab
+# HTTP Traffic Monitoring with Snort and Splunk
 
 ## Overview
 This project simulates HTTP traffic monitoring within a segmented virtual network environment using Snort IDS and Splunk SIEM. The objective was to generate, detect, and analyze HTTP-based network activity in order to improve visibility into web traffic patterns and potential malicious behavior.
