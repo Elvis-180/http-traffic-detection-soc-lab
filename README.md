@@ -65,6 +65,12 @@ The generated alerts were forwarded to Splunk (SIEM), were it  monitored activit
 - Splunk provided centralized visibility into IDS-generated alerts
 - Traffic analysis improved understanding of IDS and SIEM integration workflows
 
+--- 
+
+## Screenshot
+- HTTP Alerts
+  <img width="1920" height="1080" alt="Screenshot 2026-05-08 132035" src="https://github.com/user-attachments/assets/a71a22e7-d7a7-448a-87d0-5ec266f31f1f" />
+
 ---
 
 ## Lessons Learned
