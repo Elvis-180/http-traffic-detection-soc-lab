@@ -1,6 +1,19 @@
 # HTTP Traffic Monitoring with Snort and Splunk
 
-## Overview
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Objective](#objective)
+3. [Architecture / Environment Setup](#architecture--environment-setup)
+4. [Tools Used](#tools-used)
+5. [Attack / Simulation Scenario](#attack--simulation-scenario)
+6. [Detection & Analysis](#detection--analysis)
+7. [Key Findings](#key-findings)
+8. [Screenshots](#screenshots)
+9. [Lessons Learned](#lessons-learned)
+
+---
+
+## project Overview
 This project simulates HTTP traffic monitoring within a segmented virtual network environment using Snort IDS and Splunk SIEM. The objective was to generate, detect, and analyze HTTP-based network activity in order to improve visibility into web traffic patterns and potential malicious behavior.
 
 ---
@@ -67,7 +80,7 @@ The generated alerts were forwarded to Splunk (SIEM), were it  monitored activit
 
 --- 
 
-## Screenshot
+## Screenshots
 - HTTP Alerts
   <img width="1920" height="1080" alt="Screenshot 2026-05-08 132035" src="https://github.com/user-attachments/assets/a71a22e7-d7a7-448a-87d0-5ec266f31f1f" />
 
